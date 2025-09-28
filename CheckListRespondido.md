@@ -268,7 +268,7 @@ A divisão dos dados foi realizada seguindo boas práticas:
 
 ---
 
-## 📋 Resumo Executivo
+## 📋 Resumo
 
 ### ✅ **Pontos Fortes do Projeto:**
 - Metodologia científica rigorosa
